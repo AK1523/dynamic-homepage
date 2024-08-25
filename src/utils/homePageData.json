@@ -1,0 +1,50 @@
+{
+  "hero": [
+    {
+      "id": 1,
+      "title": "Title 1",
+      "description": "Description 1",
+      "image": "https://ik.imagekit.io/dzzp3vpnx/SqubixHomepageImage/Bh.png?updatedAt=1724232335321"
+    },
+    {
+      "id": 2,
+      "title": "Title 2",
+      "description": "Description 2",
+      "image": "https://ik.imagekit.io/dzzp3vpnx/SqubixHomepageImage/USA.png?updatedAt=1724152504269"
+    },
+    {
+      "id": 3,
+      "title": "Title 3",
+      "description": "Description 3",
+      "image": "https://ik.imagekit.io/dzzp3vpnx/SqubixHomepageImage/Sydney.jpg?updatedAt=1723095217564"
+    },
+    {
+      "id": 4,
+      "title": "Title 4",
+      "description": "Description 4",
+      "image": "https://ik.imagekit.io/dzzp3vpnx/SqubixHomepageImage/Dubai.png?updatedAt=1722934034662"
+    }
+  ],
+  "secondView": [
+    {
+      "id": 1,
+      "title": "Product Development",
+      "description": "Description for Product Development..."
+    },
+    {
+      "id": 2,
+      "title": "Custom Solutions",
+      "description": "No two businesses are alike, which is why we offer customized solutions tailored specifically to your unique needs..."
+    },
+    {
+      "id": 3,
+      "title": "Technical Consulting",
+      "description": "Description for Technical Consulting..."
+    },
+    {
+      "id": 4,
+      "title": "Rigorous Maintenance",
+      "description": "Description for Rigorous Maintenance..."
+    }
+  ]
+}

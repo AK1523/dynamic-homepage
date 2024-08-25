@@ -1,0 +1,15 @@
+.header {
+    background-color: #282c34;
+    padding: 10px;
+    color: white;
+  }
+  
+  .header ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .header li {
+    display: inline;
+    margin: 0 10px;
+  }
